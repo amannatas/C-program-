@@ -14,6 +14,7 @@ class Helo {
         System.out.println("The multiplication is: " + (a * b)); // Print the sum of a and b
         System.out.println("Hello, World!"); // Print "Hello, World!" to the console
         System.out.println("This is a Java program."); // Print "This is a Java program." to the console
+        
 
     }
 }
